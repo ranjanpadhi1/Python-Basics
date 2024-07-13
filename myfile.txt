@@ -1,0 +1,3 @@
+Updating the entire file
+THIS IS SECOND LINE
+THIS IS THIRD LINE
